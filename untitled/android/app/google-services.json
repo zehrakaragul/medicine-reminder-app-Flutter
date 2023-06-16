@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956567238106",
+    "project_id": "ilac-firebase-setup",
+    "storage_bucket": "ilac-firebase-setup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956567238106:android:f2394e50bb8279db12bce3",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956567238106-vh4u1te1lshrprak173se9r39a9gt5j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08irzpu5i3_8_C2Nx-BqMGFLiKfAj1_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956567238106-vh4u1te1lshrprak173se9r39a9gt5j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
